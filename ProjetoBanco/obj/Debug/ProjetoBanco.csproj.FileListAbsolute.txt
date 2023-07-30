@@ -1,0 +1,7 @@
+C:\Users\milen\source\repos\ProjetoBanco\ProjetoBanco\bin\Debug\ProjetoBanco.exe.config
+C:\Users\milen\source\repos\ProjetoBanco\ProjetoBanco\bin\Debug\ProjetoBanco.exe
+C:\Users\milen\source\repos\ProjetoBanco\ProjetoBanco\bin\Debug\ProjetoBanco.pdb
+C:\Users\milen\source\repos\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.csproj.AssemblyReference.cache
+C:\Users\milen\source\repos\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.csproj.CoreCompileInputs.cache
+C:\Users\milen\source\repos\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.exe
+C:\Users\milen\source\repos\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.pdb
